@@ -1,5 +1,6 @@
 ## Git Cheat Sheet
 
+Git rocks!
 
 ### Basic Commands
 * `git init` - initialize a local git repo
